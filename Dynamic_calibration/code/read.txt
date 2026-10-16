@@ -1,0 +1,2 @@
+激振器参数  fmin 1  fmax 1000   df 1  lineamp 2  tarhetpeak 10 alpha 0.3
+use point fx：18  fy：21  fz：2  mx：37  my：35  mz：46
